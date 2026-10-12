@@ -13,7 +13,7 @@
       "notebook_task": {
         "notebook_path": "/Repos/streaming-recommendation-lakehouse/notebooks/01_bronze_ingestion"
       },
-      "existing_cluster_id": "your-cluster-id-here"
+      "existing_cluster_id": "37530755-3442-397a-a9ae-aaa556f005d9"
     },
     {
       "task_key": "silver_cleaning",
@@ -21,7 +21,7 @@
       "notebook_task": {
         "notebook_path": "/Repos/streaming-recommendation-lakehouse/notebooks/02_silver_cleaning"
       },
-      "existing_cluster_id": "your-cluster-id-here"
+      "existing_cluster_id": "37530755-3442-397a-a9ae-aaa556f005d9"
     },
     {
       "task_key": "gold_features",
@@ -29,7 +29,7 @@
       "notebook_task": {
         "notebook_path": "/Repos/streaming-recommendation-lakehouse/notebooks/03_gold_features"
       },
-      "existing_cluster_id": "your-cluster-id-here"
+      "existing_cluster_id": "37530755-3442-397a-a9ae-aaa556f005d9"
     },
     {
       "task_key": "als_model_training",
@@ -37,7 +37,7 @@
       "notebook_task": {
         "notebook_path": "/Repos/streaming-recommendation-lakehouse/notebooks/04_als_model_training"
       },
-      "existing_cluster_id": "your-cluster-id-here"
+      "existing_cluster_id": "37530755-3442-397a-a9ae-aaa556f005d9"
     }
   ]
 }
